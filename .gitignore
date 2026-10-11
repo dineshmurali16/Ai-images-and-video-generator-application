@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+uploads/
+prisma/*.db
+prisma/*.db-journal
+
+# Local OpenCode workspace metadata
+.opencode/
+opencode.jsonc
